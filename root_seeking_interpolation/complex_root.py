@@ -1,5 +1,8 @@
-#! /usr/bin/env python3
-#
+# find roots of x^2 + 9 = 0
+# results will be complex.
+
+
+
 from f9 import f9
 from f9 import f9p
 from newton3 import newton3
